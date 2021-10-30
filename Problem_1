@@ -1,0 +1,7 @@
+Write a python program to count individual characters from a string.
+Sample output:
+Enter string: hello
+Total no. of ' h ' is : 1
+Total no. of ' e ' is : 1
+Total no. of ' l ' is : 2
+Total no. of ' o ' is : 1
