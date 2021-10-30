@@ -1,0 +1,6 @@
+Write a python program to find length of sentance.
+condition: you can not use inbuilt function of python that is "len()".
+
+Sample output:
+Sentence : python is high level programming language!
+Total chars in sentence :  42
